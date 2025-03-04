@@ -1,16 +1,26 @@
-## Hi there 👋
+<!-- Banner -->
+<p align="center">
+  <img src="URL_DEL_BANNER" alt="Banner" width="100%">
+</p>
 
-<!--
-**Fildefrost/fildefrost** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 ¡Hola! Soy Fil
 
-Here are some ideas to get you started:
+📚 Apasionado por la ciberseguridad, el hacking ético y la tecnología.  
+🚀 Actualmente en formación y mejorando mis habilidades en:  
+- 🐍 **Python y scripting para pentesting**  
+- 🔐 **Hacking ético y pruebas de penetración**  
+- 🖥️ **Administración de sistemas y redes**  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 📖 Formación y Progreso  
+🎯 **Objetivos actuales:**  
+- 🏆 Preparación para **eJPTv2** y **OSCP**  
+- 🎓 Completar desafíos en **Hack The Box** y **TryHackMe**  
+- ✍️ Documentar mi progreso en GitBook  
+
+---
+
+## 📫 Conéctate conmigo  
+🌐 **GitBook:** [Mi GitBook](URL_GITBOOK)  
+💼 **LinkedIn:** [Mi LinkedIn](URL_LINKEDIN)  
