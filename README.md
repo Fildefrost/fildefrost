@@ -3,7 +3,7 @@
   <img src="banner.jpg" alt="Banner" width="100%">
 </p>
 
-# 👋 ¡Hola! Soy Fil
+# 👋 ¡Hola! Soy Fildefrost
 
 📚 Apasionado por la ciberseguridad, el hacking ético y la tecnología.  
 🚀 Actualmente en formación y mejorando mis habilidades en:  
