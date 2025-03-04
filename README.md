@@ -7,8 +7,10 @@
 
 📚 Apasionado por la ciberseguridad, el hacking ético y la tecnología.  
 🚀 Actualmente en formación y mejorando mis habilidades en:  
-- 🐍 **Python y scripting para pentesting**  
+
 - 🔐 **Hacking ético y pruebas de penetración**  
+- 🐍 **Python y scripting para pentesting**  
+
  
 
 ---
