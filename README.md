@@ -25,4 +25,4 @@
 
 ## 📫 Conéctate conmigo  
 🌐 **GitBook:** [Mi GitBook](URL_GITBOOK)  
-💼 **LinkedIn:** [Mi LinkedIn](www.linkedin.com/in/jordi-pueyo-cyber)  
+💼 **LinkedIn:** [Mi LinkedIn](https://www.linkedin.com/in/jordi-pueyo-cyber)  
