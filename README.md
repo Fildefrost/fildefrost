@@ -9,15 +9,15 @@
 🚀 Actualmente en formación y mejorando mis habilidades en:  
 - 🐍 **Python y scripting para pentesting**  
 - 🔐 **Hacking ético y pruebas de penetración**  
-- 🖥️ **Administración de sistemas y redes**  
+ 
 
 ---
 
 ## 📖 Formación y Progreso  
 🎯 **Objetivos actuales:**  
-- 🏆 Preparación para **eJPTv2** y **OSCP**  
-- 🎓 Completar desafíos en **Hack The Box** y **TryHackMe**  
-- ✍️ Documentar mi progreso en GitBook  
+- 🏆 Preparación para **eJPTv2**,  **eCPPTv2** y **OSCP**  
+- 🎓 Resolución de entornos vulnerables: **Hack The Box**,**TryHackMe** ,**DockerLabs**,etc.
+- ✍️ Notas y apuntes en Gitbook
 
 ---
 
