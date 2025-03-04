@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="URL_DEL_BANNER" alt="Banner" width="100%">
+  <img src="banner.jpg" alt="Banner" width="100%">
 </p>
 
 # 👋 ¡Hola! Soy Fil
