@@ -16,8 +16,10 @@
 ---
 
 ## 📖 Formación y Progreso  
+- 🏆 Certificado eJPTv2
+  
 🎯 **Objetivos actuales:**  
-- 🏆 Preparación para **eJPTv2**,  **eCPPTv2** y **OSCP**  
+- 🏆 Preparación para **eWPT**,**eCPPTv3** y **OSCP**  
 - 🎓 Resolución de entornos vulnerables: **Hack The Box**,**TryHackMe** ,**DockerLabs**,etc.
 - ✍️ Notas y apuntes en Gitbook
 
